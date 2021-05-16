@@ -1,0 +1,200 @@
+#sidebar-wrapper {
+  background: #22222c !important;
+  border-right: none !important;
+  padding-left: 9px;
+  padding-right: 87px;
+}
+
+#page-content-wrapper {
+  padding-left: 3.5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  padding-top: 1%;
+}
+
+#navbarSupportedContent,
+nav.navbar.navbar-expand-lg,
+body {
+  background-color: #2c2e3d !important;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 17px;
+  min-height: auto;
+  color: #9ba1c4 !important;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #f16959;
+  padding-top: 9px;
+  padding-bottom: 15px;
+}
+
+#top-header {
+  border-bottom: none !important;
+}
+
+#menu-toggle {
+  background-color: #22222c;
+  border: 0px;
+  color: #6e728d;
+}
+
+::-moz-selection {
+  background: #ff9e91;
+  color: black;
+}
+::selection {
+  background: #ff9e91;
+  color: black;
+}
+
+.fa.fa-arrows-h {
+  font-size: 22px;
+}
+.navbar-toggler {
+  border-color: rgba(92, 61, 61, 0.1);
+}
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.intro_text,
+p {
+  color: #9ba1c4 !important;
+  font-size: 17px;
+}
+
+textarea {
+  background-color: #43455a;
+  color: #9ba1c4;
+  font-weight: bold;
+  min-width: 250px;
+  border-radius: 9px;
+  padding: 10px 20px;
+  height: 230px;
+  max-width: 350px;
+  margin-right: 25px;
+  margin-top: 12px;
+  resize: none;
+  border: none;
+  outline: none;
+}
+
+textarea:focus {
+  background-color: #22222c;
+  color: #9ba1c4;
+  border-color: #f16959;
+  box-shadow: 0 0 0 0.2rem rgb(241 105 89 / 25%);
+  outline: none;
+}
+
+textarea::placeholder {
+  color: #9ba1c4;
+  font-size: 15px;
+}
+textarea:focus::placeholder {
+  color: transparent;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+ul#domain_selector {
+  list-style: none;
+  padding-left: 0;
+}
+#domain_selector li {
+  display: inline-block;
+  padding: 40px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+input[type="checkbox"] + label {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border: 3.5px solid #9ba1c4;
+  border-radius: 100%;
+  transform: translate(-50%, -50%);
+  transition: all ease-out 200ms;
+  text-indent: 20px;
+  white-space: nowrap;
+  color: #9ba1c4;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 15px;
+}
+
+input[type="checkbox"] + label:after {
+  content: "";
+  position: absolute;
+  width: 0px;
+  height: 6px;
+  border-bottom: 6px solid #f16959;
+  border-left: 6px solid #f16959;
+  top: 25%;
+  left: 50%;
+  transform-origin: bottom left;
+  transform: rotate(-45deg);
+  opacity: 0;
+  transition: all ease-out 200ms;
+}
+input[type="checkbox"]:checked + label {
+  border: 3.5px solid #f16959;
+  color: #f16959;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+input[type="checkbox"]:checked + label:after {
+  opacity: 1;
+  width: 18px;
+}
+.dom_ext {
+  display: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: content-box !important;
+}
+
+.check_btn_div {
+  margin-top: -25px;
+}
+
+#check_btn {
+  box-shadow: 0px 4px 2px -2px #1f1f29;
+  background: linear-gradient(to bottom, #44475d 5%, #343649 100%);
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 51px;
+  border: #1f1f29;
+  color: #f16959;
+
+  margin-top: 5px !important;
+  border-radius: 30px;
+}
+
+#check_btn:hover {
+  color: #ffffff;
+  box-shadow: inset 0 0 0 0.5px #000;
+}
+
+.domain_div {
+  background-color: #000;
+  border-radius: 12px;
+  width: 250px;
+  display: inline-block;
+}

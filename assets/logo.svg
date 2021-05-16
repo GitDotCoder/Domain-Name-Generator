@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 84.08 51.84" style="enable-background:new 0 0 84.08 51.84;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.3;fill:#FDCBA6;}
+	.st2{opacity:0.15;fill:#FDCBA6;}
+	.st3{opacity:0.3;fill:#951A39;}
+	.st4{opacity:0.5;fill:url(#SVGID_2_);}
+	.st5{opacity:0.5;fill:#FDCBA6;}
+	.st6{fill:#951A39;}
+	.st7{opacity:0.15;fill:#951A39;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="4.4481" y1="-5.6933" x2="72.2425" y2="47.2735">
+		<stop  offset="0" style="stop-color:#F7945D"/>
+		<stop  offset="0.3731" style="stop-color:#F47950"/>
+		<stop  offset="0.6485" style="stop-color:#F16047"/>
+		<stop  offset="0.7218" style="stop-color:#E75A47"/>
+		<stop  offset="0.8231" style="stop-color:#D44A46"/>
+		<stop  offset="0.9401" style="stop-color:#BA3144"/>
+		<stop  offset="1" style="stop-color:#AA2143"/>
+	</linearGradient>
+	<path class="st0" d="M69.57,31.43L13.97,6.98L0,0l29.82,39.22l22.56,12.63l23.64-9.4l8.06-11.01H69.57z M35.67,29.78l-6.46-8.16
+		l18.52,7.25l3.58,7.92L35.67,29.78z M73.75,39.25l-8.72,1.06l5.17-4.74h7.98L73.75,39.25z"/>
+	<polygon class="st1" points="61.8,27.94 51.23,36.78 41.97,45.94 51.31,51.31 57.78,36.56 69.03,31.16 	"/>
+	<polygon class="st2" points="35.67,29.78 19.71,25.92 29.82,39.22 51.32,36.8 	"/>
+	<polygon class="st3" points="59.37,38.17 52.38,51.84 57.75,49.63 61.31,40.02 69.57,31.43 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="64.7361" y1="39.2045" x2="84.0763" y2="39.2045">
+		<stop  offset="0" style="stop-color:#F16047"/>
+		<stop  offset="1" style="stop-color:#F7945D"/>
+	</linearGradient>
+	<polygon class="st4" points="78.18,35.56 73.75,39.25 64.74,46.98 76.02,42.44 84.08,31.43 	"/>
+	<polygon class="st5" points="69.03,31.16 57.78,36.56 51.31,51.31 52.38,51.84 59.36,38.11 69.57,31.43 	"/>
+	<polygon class="st6" points="27.39,20.09 29.75,22.43 47.74,28.88 	"/>
+	<polygon class="st6" points="47.74,28.88 49.53,36 51.32,36.8 	"/>
+	<polygon class="st6" points="70.2,35.56 77.03,36.52 78.18,35.56 	"/>
+	<polygon class="st6" points="63.52,40.32 65.03,40.31 70.2,35.56 	"/>
+	<polygon class="st7" points="48.44,22.14 43.51,20.09 51.32,36.8 57.62,31.43 	"/>
+	<polygon class="st7" points="29.82,39.22 41.97,45.94 51.32,36.8 	"/>
+</g>
+</svg>
